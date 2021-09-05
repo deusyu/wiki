@@ -1,6 +1,6 @@
 <template>
   <a-layout-footer style="text-align: center">
-    deusyu.xyz 111<span v-show="user.id">，欢迎：{{user.name}}</span>
+    deusyu.xyz 111111<span v-show="user.id">，欢迎：{{user.name}}</span>
   </a-layout-footer>
 </template>
 
