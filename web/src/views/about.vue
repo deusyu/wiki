@@ -2,39 +2,31 @@
   <a-layout>
     <a-layout-content :style="{ background: '#fff', padding: '24px', margin: 0, minHeight: '280px' }">
       <div class="about">
-        <h2>我是甲蛙，13年Java全栈，慕课网讲师</h2>
-        <div><b>专注Java全栈技术分享，汇总13年实战经验</b></div>
+        <h2>我是白塔，一个正在学习Java的开发者</h2>
+        <div><b>我喜欢 IT，热爱开源、正在使用<strike>Linux</strike>macOS</b></div>
         <div>
-          <b>项目实战：
-            <a href="https://coding.imooc.com/class/474.html" target="_blank">
-            《SpringBoot知识体系+Vue3全家桶 前后端分离 实战WIKI知识库系统》
-            </a>
+          <b>多多学习，多写文章，多多的记录生活；恰如曾经箴言，执着于心，谦和之中见卓越
           </b>
         </div>
         <div>
-          <b>项目实战：
-            <a href="https://coding.imooc.com/class/416.html" target="_blank">
-            《Spring Cloud + Vue 前后端分离 开发企业级在线视频课程系统》
-            </a>
-          </b>
+          <b>写文章本身就是对知识的一种梳理，更能在梳理中学到更多的知识</b>
         </div>
         <div>
-          <b>免费课程：
-            <a href="https://www.imooc.com/learn/1160" target="_blank">
-            《开发工具IDEA从入门到爱不释手》
-            </a>
-          </b>
+          <b>有的时候会有这样的感觉，你知道这种东西，但是让你用文字表达出来，却噎住写不出来了</b>
+        </div>
+        <div>
+          <b>缺少历练，外加快餐文化、碎片式阅读的影响——现在还有多少人喜欢读长文呢？我很喜欢</b>
         </div>
         <br>
-        <div><b>QQ：82144921，<span style="color: rgb(194, 79, 74)">阿里云产品使用咨询、购买优惠</span>，加QQ，备注：阿里云</b></div>
-        <div><b>微信号：jiawa1986</b></div>
-        <div><b>QQ群：174545069，Java全栈交流群</b></div>
-        <div><b>个人全栈技术博客：
-          <a href="http://www.jiawablog.com" target="_blank">甲蛙博客</a></b>
+        <div><b><a href="toroad001@gmail.com" title="">邮箱联系我  </a><span style="color: rgb(194, 79, 74)">搬瓦工VPS产品使用咨询、购买优惠</span>，加telegram，备注：搬瓦工</b></div>
+        <div><b>Telegram：deusyu</b></div>
+        <div><b>“Beauty will save the world” ― Fyodor Dostoyevsky, The Idiot</b></div>
+        <div><b>个人技术博客：
+          <a href="http://www.deusyu.xyz" target="_blank">白塔博客</a></b>
         </div>
-        <div style="color: rgb(194, 79, 74)"><b>公众号：甲蛙全栈，扫码关注</b></div>
+        <div style="color: rgb(194, 79, 74)"><b>个人网站，扫码访问</b></div>
         <div>
-          <img src="/image/jiawaquanzhan.jpg">
+          <img  style="width: 5vw; min-width: 330px;" src="/image/qrcode_deusyu.xyz.png">
         </div>
       </div>
     </a-layout-content>
