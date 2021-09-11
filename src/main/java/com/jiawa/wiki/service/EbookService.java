@@ -74,7 +74,7 @@ public class EbookService {
         if (ObjectUtils.isEmpty(req.getId())) {
             // 新增
             ebook.setId(snowFlake.nextId());
-            ebookMapper.insertSelective(ebook);
+            ebookMapper.insertSelective(ebook);//之前没有insertSelective会报没有覆盖null的错误
         } else {
             // 更新
             ebookMapper.updateByPrimaryKey(ebook);
